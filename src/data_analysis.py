@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 
-df = pd.read_csv('covid_fake_news.csv')
+df = pd.read_csv('./data/covid_fake_news.csv')
 
 print(df.head(), end = '\n\n')
 
