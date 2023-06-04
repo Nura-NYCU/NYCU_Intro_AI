@@ -1,4 +1,4 @@
-Did not finished training: But if you want to test code you can find it on my drive
+Did not finish training: But if you want to test code you can find it on my drive
 Please do not upload it for now!!!!!!!!
 https://drive.google.com/drive/folders/13iBxjJZUV2TqTY7xn4Im1yCxS_yEsUE4?usp=drive_link
 
