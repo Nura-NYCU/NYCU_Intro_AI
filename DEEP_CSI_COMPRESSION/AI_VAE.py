@@ -1,5 +1,5 @@
 import numpy as np
-from VAE_CNN_MODEL import define_vae
+from AI_models import define_vae
 import os
 import random
 random.seed(42) 
